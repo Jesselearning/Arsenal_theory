@@ -5,3 +5,6 @@ gb9
 bs7
 ar1
 ws2
+
+
+=> eliminated by Liverpool
